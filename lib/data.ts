@@ -49,7 +49,7 @@ export const projects = [
     name: "Zero Downtime Deployment using AWS, Nginx & Jenkins",
     description: "Implemented a robust CI/CD pipeline with zero downtime deployment strategy using AWS EC2, Nginx load balancing, and Jenkins automation.",
     techStack: ["AWS", "Nginx", "Jenkins", "Docker", "Linux"],
-    github: "https://github.com/mansijadhav/zero-downtime-deployment",
+    github: "https://https://github.com/mansijadhav07/DualOps",
     liveDemo: "",
   },
   {
@@ -65,15 +65,15 @@ export const projects = [
     name: "AI-powered Financial Assistant",
     description: "Developed an AI-driven financial advisor that provides personalized investment recommendations and portfolio management insights.",
     techStack: ["Python", "Machine Learning", "React", "FastAPI", "PostgreSQL"],
-    github: "https://github.com/mansijadhav/ai-financial-assistant",
+    github: "https://https://github.com/mansijadhav07/AI-Financial-Copilot",
     liveDemo: "https://ai-finance-demo.vercel.app",
   },
   {
     id: 4,
-    name: "Hospital Management System",
+    name: "Game Management System",
     description: "Comprehensive hospital management solution with patient records, appointment scheduling, and billing system.",
     techStack: ["React", "Node.js", "MySQL", "Express", "Tailwind"],
-    github: "https://github.com/mansijadhav/hospital-management",
+    github: "https://github.com/mansijadhav07/GameVerse",
     liveDemo: "",
   },
   {
