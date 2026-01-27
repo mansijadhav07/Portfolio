@@ -1,11 +1,11 @@
 export const personalInfo = {
   name: "Mansi Jadhav",
-  title: "Computer Engineering Student | DevOps | Cloud | AI | Blockchain",
-  bio: "Final year Computer Engineering student passionate about building scalable solutions at the intersection of DevOps, Cloud Computing, AI, and Blockchain technologies.",
+  title: "Computer Engineering Student | DevOps | Cloud | AI/ML | Blockchain",
+  bio: "I am a passionate developer dedicated to building impactful digital solutions. My expertise ranges from crafting seamless Full-Stack Web and Mobile applications to uncovering insights through Data Analysis and Machine Learning.",
   intro: "I love transforming complex problems into elegant, efficient solutions. From automating infrastructure to deploying intelligent systems, I'm driven by innovation and continuous learning.",
-  email: "mansi.jadhav@example.com",
-  github: "https://github.com/mansijadhav",
-  linkedin: "https://linkedin.com/in/mansijadhav",
+  email: "mansikj07@gmail.com",
+  github: "https://github.com/mansijadhav07",
+  linkedin: "https://linkedin.com/in/mansijadhav07",
 };
 
 export const skills = {
